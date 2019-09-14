@@ -13,3 +13,8 @@ DXUI界面库的优点是：
 5.高兼容性，无需考虑硬件支持问题，就算不支持，可无缝切换到软件绘制，效率优于GDI。
 6.拥有比GDI/GDI+更高的绘图质量，界面更清晰大方。
 7.完善的高DPI支持，再也不用担心系统缩放模糊的问题。
+
+预览图：
+![main](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/main.jpg)
+![main1](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/main1.jpg)
+![About](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/about.jpg)
