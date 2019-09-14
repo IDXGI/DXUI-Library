@@ -1,10 +1,7 @@
 # DXUI-Libaray
-### 此库来之不易，使用请标明作者
-### 商业用途请先联系我
-#### 共同维护良好的开源环境！
-#### QQ: 2441987560
-
-
+### 此库来之不易，使用请标明作者。商业用途请先联系我。
+#### 共同维护良好的开源环境！作者QQ: 2441987560
+ 
 一个简单、多动画的界面库
 
 取“DXUI”这个名字是因为此界面库使用Direct 2D图形库来绘制，使用Wic库实现加载图片及部分功能，使用DWrite库来绘制处理文字。
@@ -20,6 +17,7 @@ DXUI界面库的优点是：
 6.拥有比GDI/GDI+更高的绘图质量，界面更清晰大方。
 7.完善的高DPI支持，再也不用担心系统缩放模糊的问题。
 
+测试程序全部代码仅有350行，真正的简单、不繁琐。
 预览图：
 ![main](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/main.jpg)
 ![main1](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/main1.jpg)
