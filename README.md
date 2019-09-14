@@ -16,4 +16,6 @@ DXUI界面库的优点是：
 **测试程序全部代码仅有350行(包括基础Win程序框架)，真正的简单、不繁琐。**<br>
 预览图：<br>
 ![main](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/main.jpg)
-![main1](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/main1.jpg)
+![main1](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/main1.jpg)<br>
+目前还有一处不完善的地方：在客户区能拖动窗口的实现方式有些问题，在窗口上边缘超出屏幕上方时，窗口大小会改变。<br>
+以后有时间会继续添加控件页、列表框、视频框等控件。由于我上学，1周或2周回家一次，更新进度会比较慢。
