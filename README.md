@@ -17,4 +17,3 @@ DXUI界面库的优点是：
 预览图：
 ![main](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/main.jpg)
 ![main1](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/main1.jpg)
-![About](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/about.jpg)
