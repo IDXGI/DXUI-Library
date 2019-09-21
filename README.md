@@ -21,7 +21,12 @@ DXUI界面库的优点是：
 * 8.完善的高DPI支持，再也不用担心系统缩放模糊的问题。<br><br>
 **测试程序全部代码仅有350行(包括基础Win程序框架)，真正的简单、不繁琐。**<br>
 预览图：<br>
-![main](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/main.jpg)<br>
-![main1](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20picture/main1.jpg)<br>
-目前还有一处不完善的地方：在客户区能拖动窗口的实现方式有些问题，在窗口上边缘超出屏幕上方时，窗口大小会改变。<br><br>
-以后有时间会继续添加控件页、列表框、视频框等控件。由于我上学，1周或2周回家一次，更新进度会比较慢。
+![main0](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20pictures/Main0.jpg)<br>
+![main1](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20pictures/Main1.jpg)<br><br>
+以后有时间会继续添加控件页、列表框、视频框等控件。由于我上学，1周或2周回家一次，更新进度会比较慢。<br><br>
+
+**——————190921 更新内容——————**
+1.优化了在客户区拖动窗口的实现方式，新方法没有任何特殊限制。<br>
+2.优化ImageBox的加载函数，理论支持图片大小可达系统极限值，且上层控件动画依然流畅。还优化了加载失败后的处理。<br>
+3.优化了示例程序的控件参数，使其更自然、流畅。还增加了一些控件，更好地展示此库的简单、美观。更新后示例程序去掉注释和换行，依旧只有350行左右。<br>
+**——————————————————————————**
