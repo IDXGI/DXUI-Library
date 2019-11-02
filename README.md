@@ -20,7 +20,8 @@ DXUI界面库的优点是：
 * 7.拥有比GDI/GDI+更高的绘图质量，界面更清晰大方。<br>
 * 8.完善的高DPI支持，再也不用担心系统缩放模糊的问题。<br><br>
 **测试程序全部代码仅有500行(包括基础Win程序框架和获取性能信息部分)，真正的简单、不繁琐。**<br>
-预览图：<br>
+预览图：<br><br>
+**注意：这里的内存占用与任务管理器显示的不一致，实际没有占用这么高，任务管理器显示不到40MB。**<br>
 ![main0](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20pictures/Main0.jpg)<br>
 ![main1](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20pictures/Main1.jpg)<br><br>
 以后有时间会继续添加控件页、列表框、视频框等控件。由于我上学，1周或2周回家一次，更新进度会比较慢。<br><br>
