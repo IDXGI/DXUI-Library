@@ -22,10 +22,18 @@ DXUI界面库的优点是：
 **测试程序全部代码仅有500行(包括基础Win程序框架和获取性能信息部分)，真正的简单、不繁琐。**<br>
 预览图：<br><br>
 **注意：这里的内存占用与任务管理器显示的不一致，实际没有占用这么高，任务管理器显示不到40MB。**<br>
-![main0](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20pictures/Main0.jpg)<br>
-![main1](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20pictures/Main1.jpg)<br><br>
+![main](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20pictures/Main.jpg)<br><br>
 以后有时间会继续添加控件页、列表框、视频框等控件。由于我上学，1周或2周回家一次，更新进度会比较慢。<br><br>
 
+**————————200315 更新内容————————**<br>
+1.修复各种大大小小的BUG。<br>
+2.更改控件消息的传递方式，不在WndProc里。更简洁、直接。<br>
+3.简化控件消息。<br>
+4.增加设置窗口阴影。<br>
+5.优化动画流畅度。<br>
+6.增加了控件 位置、大小、不透明度、圆角半径的动画，并且可选用贝塞尔曲线参数实现非线性动画。<br>
+7.示例程序增加了多种华丽的非线性动画。<br>
+写完几个大的功能再更新吧，更新好麻烦呀。<br>
 **————————191130 更新内容————————**<br>
 1.修复文本框在接收文本时单击鼠标左键会无限期假死的问题。<br>
 2.修改了示例程序控件的部分参数，更加美观。<br>
