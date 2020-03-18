@@ -1,4 +1,4 @@
-# DXUI-Libaray
+# DXUI-Library
 ### 此库来之不易，使用请标明作者。商业用途请先联系我。
 **共同维护良好的开源环境！**<br>
 **QQ: 2441987560<br>
@@ -22,7 +22,7 @@ DXUI界面库的优点是：
 **测试程序全部代码仅有500行(包括基础Win程序框架和获取性能信息部分)，真正的简单、不繁琐。**<br>
 预览图：<br><br>
 **注意：这里的内存占用与任务管理器显示的不一致，实际远小于这个值。**<br>
-![main](https://github.com/IDXGI/DXUI-Libaray/blob/master/preview%20pictures/Main.jpg)<br><br>
+![main](https://github.com/IDXGI/DXUI-Library/blob/master/preview%20pictures/Main.jpg)<br><br>
 以后有时间会继续添加颜色框、控件页、列表框、视频框等控件。由于我上学，1周或2周回家一次，更新进度会比较慢。<br><br>
 
 
