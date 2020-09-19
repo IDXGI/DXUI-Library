@@ -21,7 +21,11 @@ DXUI界面库的优点有：
 * 8.完善的高DPI支持，再也不用担心系统缩放模糊的问题。<br><br>
 预览图：<br><br>
 **注意：这里的内存占用与任务管理器显示的不一致，实际远小于这个值。**<br>
-![main](https://github.com/IDXGI/DXUI-Library/blob/master/preview%20pictures/main.jpg)<br><br>
+* **DXUI - 示例程序预览图：**<br>
+![main](https://github.com/IDXGI/DXUI-Library/blob/master/preview%20pictures/main.jpg)<br>
+* **百词斩UI - DXUI示例程序预览图：**<br>
+![ncz0](https://github.com/IDXGI/DXUI-Library/blob/master/preview%20pictures/ncz0.jpg)<br>
+![ncz2](https://github.com/IDXGI/DXUI-Library/blob/master/preview%20pictures/ncz2.jpg)<br><br>
 目前已经基本完善并能正常使用，显然我知道坐标与颜色需要手动填入是比较繁琐的，后期准备向简化这部分努力。由于我高二，1周或2周回家一次，学业紧张，更新进度会比较慢。<br><br>
 
 
