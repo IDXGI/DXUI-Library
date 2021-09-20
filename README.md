@@ -22,7 +22,8 @@ Email: 2441987560@qq.com**<br>
 * **百词斩UI - DXUI示例程序预览图：**<br>
 ![ncz0](https://github.com/IDXGI/DXUI-Library/blob/master/preview%20pictures/ncz0.jpg)<br>
 ![ncz2](https://github.com/IDXGI/DXUI-Library/blob/master/preview%20pictures/ncz2.jpg)<br><br>
-目前已经基本完善并能正常使用，显然我知道坐标与颜色需要手动填入是比较繁琐的，后期准备向简化这部分努力。由于我高二，1周或2周回家一次，学业紧张，更新进度会比较慢。<br><br>
+目前已经基本完善并能正常使用，显然我知道坐标与颜色需要手动填入是比较繁琐的，后期准备向简化这部分努力。<br>
+要高考了，等高考完再考虑更。<br><br>
 
 
 **————————210221 更新内容————————**<br>
